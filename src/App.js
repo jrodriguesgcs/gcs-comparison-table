@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ChevronDown, X } from 'lucide-react';
+import { ChevronDown } from 'lucide-react';
 
 const ProgramComparisonTable = () => {
   // Country flags mapping
