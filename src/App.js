@@ -29,11 +29,11 @@ const ProgramComparisonTable = () => {
   // Complete program data from Excel
   const programsData = {
     "Antigua & Barbuda CBI": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "5 days in total in the first 5 years",
-      "TIME TO PERMANENT RESIDENCY": "0",
+      "Physical presence required to maintain status": "5 days in total in the first 5 years",
+      "Time to permanent residency": "0",
       "Time to Citizenship / Pathway to Citizenship": "4-6 months",
-      "PROCESSING PERIOD FROM SUBMISSION": "3-6 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "No",
+      "Estimated processing period from submission": "3-6 months",
+      "Visit the country for biometrics": "No",
       "Number of visa-free countries accessible": "150",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -68,11 +68,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "Yes, if 30 days option"
     },
     "Cyprus Golden Visa": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "Visit island once every two years",
-      "TIME TO PERMANENT RESIDENCY": "0",
+      "Physical presence required to maintain status": "Visit island once every two years",
+      "Time to permanent residency": "0",
       "Time to Citizenship / Pathway to Citizenship": "7 years (or 3 if you know the language)",
-      "PROCESSING PERIOD FROM SUBMISSION": "3 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "3 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "0",
       "Visa-free access to the Schengen area": "No",
       "Visa-free access to the United States": "No",
@@ -107,11 +107,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "Yes"
     },
     "Dominica CBI": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "0",
-      "TIME TO PERMANENT RESIDENCY": "0",
+      "Physical presence required to maintain status": "0",
+      "Time to permanent residency": "0",
       "Time to Citizenship / Pathway to Citizenship": "6-7 months",
-      "PROCESSING PERIOD FROM SUBMISSION": "6-8 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "No",
+      "Estimated processing period from submission": "6-8 months",
+      "Visit the country for biometrics": "No",
       "Number of visa-free countries accessible": "142",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -146,11 +146,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "No"
     },
     "Greece Golden Visa": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "0",
-      "TIME TO PERMANENT RESIDENCY": "0",
+      "Physical presence required to maintain status": "0",
+      "Time to permanent residency": "0",
       "Time to Citizenship / Pathway to Citizenship": "7 years",
-      "PROCESSING PERIOD FROM SUBMISSION": "8 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "8 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "29",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -185,11 +185,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "Yes, flat tax on EUR 100,000/yr"
     },
     "Greece Digital Nomad Visa": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "183",
-      "TIME TO PERMANENT RESIDENCY": "5",
+      "Physical presence required to maintain status": "183",
+      "Time to permanent residency": "5",
       "Time to Citizenship / Pathway to Citizenship": "7",
-      "PROCESSING PERIOD FROM SUBMISSION": "3-6 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "3-6 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "29",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -224,11 +224,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "Yes, flat tax of €100,000/yr"
     },
     "Grenada CBI": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "0",
-      "TIME TO PERMANENT RESIDENCY": "0",
+      "Physical presence required to maintain status": "0",
+      "Time to permanent residency": "0",
       "Time to Citizenship / Pathway to Citizenship": "6-7 months",
-      "PROCESSING PERIOD FROM SUBMISSION": "6 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "No",
+      "Estimated processing period from submission": "6 months",
+      "Visit the country for biometrics": "No",
       "Number of visa-free countries accessible": "148",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "E2 after 3 years domicile",
@@ -263,11 +263,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "No"
     },
     "Hungary Golden Visa": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "0",
-      "TIME TO PERMANENT RESIDENCY": "3",
+      "Physical presence required to maintain status": "0",
+      "Time to permanent residency": "3",
       "Time to Citizenship / Pathway to Citizenship": "8 years",
-      "PROCESSING PERIOD FROM SUBMISSION": "2-6 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "2-6 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "29",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -302,11 +302,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "No"
     },
     "Ireland Start-Up Entrepreneur Programme (STEP) visa": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "180",
-      "TIME TO PERMANENT RESIDENCY": "5",
+      "Physical presence required to maintain status": "180",
+      "Time to permanent residency": "5",
       "Time to Citizenship / Pathway to Citizenship": "5",
-      "PROCESSING PERIOD FROM SUBMISSION": "15 working days",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "No",
+      "Estimated processing period from submission": "15 working days",
+      "Visit the country for biometrics": "No",
       "Number of visa-free countries accessible": "1",
       "Visa-free access to the Schengen area": "No",
       "Visa-free access to the United States": "No",
@@ -341,11 +341,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "No"
     },
     "Italy Elective Residency Visa": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "183+ days",
-      "TIME TO PERMANENT RESIDENCY": "5",
+      "Physical presence required to maintain status": "183+ days",
+      "Time to permanent residency": "5",
       "Time to Citizenship / Pathway to Citizenship": "10 years",
-      "PROCESSING PERIOD FROM SUBMISSION": "2-3 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "2-3 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "29",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -380,11 +380,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "No"
     },
     "Italy Digital Nomad Visa": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "183+ days",
-      "TIME TO PERMANENT RESIDENCY": "5",
+      "Physical presence required to maintain status": "183+ days",
+      "Time to permanent residency": "5",
       "Time to Citizenship / Pathway to Citizenship": "10 years",
-      "PROCESSING PERIOD FROM SUBMISSION": "1-3 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "1-3 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "29",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -419,11 +419,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "No"
     },
     "Italy Golden Visa": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "0",
-      "TIME TO PERMANENT RESIDENCY": "5",
+      "Physical presence required to maintain status": "0",
+      "Time to permanent residency": "5",
       "Time to Citizenship / Pathway to Citizenship": "10 years",
-      "PROCESSING PERIOD FROM SUBMISSION": "3-6 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "3-6 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "29",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -458,11 +458,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "No"
     },
     "Latvia Golden Visa": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "Visit once per year",
-      "TIME TO PERMANENT RESIDENCY": "5",
+      "Physical presence required to maintain status": "Visit once per year",
+      "Time to permanent residency": "5",
       "Time to Citizenship / Pathway to Citizenship": "10",
-      "PROCESSING PERIOD FROM SUBMISSION": "2-4 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "2-4 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "29",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -497,11 +497,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "No"
     },
     "Malta Permanent Residence Program": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "0",
-      "TIME TO PERMANENT RESIDENCY": "0",
+      "Physical presence required to maintain status": "0",
+      "Time to permanent residency": "0",
       "Time to Citizenship / Pathway to Citizenship": "7 years",
-      "PROCESSING PERIOD FROM SUBMISSION": "11-12 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "11-12 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "29",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -536,11 +536,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "No"
     },
     "Malta CES": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "0",
-      "TIME TO PERMANENT RESIDENCY": "0",
+      "Physical presence required to maintain status": "0",
+      "Time to permanent residency": "0",
       "Time to Citizenship / Pathway to Citizenship": "18 months",
-      "PROCESSING PERIOD FROM SUBMISSION": "14 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "14 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "190+",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "Yes",
@@ -575,11 +575,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "No"
     },
     "Malta Digital Nomad Visa": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "At least 5 months to renew",
-      "TIME TO PERMANENT RESIDENCY": "N/A",
+      "Physical presence required to maintain status": "At least 5 months to renew",
+      "Time to permanent residency": "N/A",
       "Time to Citizenship / Pathway to Citizenship": "N/A",
-      "PROCESSING PERIOD FROM SUBMISSION": "1-3 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "1-3 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "29",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -614,11 +614,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "No"
     },
     "Malta Retirement Programme": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "90 days over 5 years",
-      "TIME TO PERMANENT RESIDENCY": "5",
+      "Physical presence required to maintain status": "90 days over 5 years",
+      "Time to permanent residency": "5",
       "Time to Citizenship / Pathway to Citizenship": "7",
-      "PROCESSING PERIOD FROM SUBMISSION": "2-3 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "2-3 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "29",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -653,11 +653,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "No"
     },
     "Malta Global Residence Programme": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "0",
-      "TIME TO PERMANENT RESIDENCY": "5",
+      "Physical presence required to maintain status": "0",
+      "Time to permanent residency": "5",
       "Time to Citizenship / Pathway to Citizenship": "7 years",
-      "PROCESSING PERIOD FROM SUBMISSION": "1-2 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "1-2 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "29",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -692,11 +692,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "Yes, flat tax of €15,000/yr"
     },
     "Portugal Golden Visa": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "7 days per year",
-      "TIME TO PERMANENT RESIDENCY": "5 years",
+      "Physical presence required to maintain status": "7 days per year",
+      "Time to permanent residency": "5 years",
       "Time to Citizenship / Pathway to Citizenship": "5 years - * National Law is currently under revision - the Government intends to change it to 10 years.",
-      "PROCESSING PERIOD FROM SUBMISSION": "18-24 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "18-24 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "188",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -731,11 +731,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "Tax representative required"
     },
     "Portugal D7 Visa": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "For the period of validation of residency permit you are expected to stay 18 consecutive months or 16 non-consecutive months",
-      "TIME TO PERMANENT RESIDENCY": "5 years",
+      "Physical presence required to maintain status": "For the period of validation of residency permit you are expected to stay 18 consecutive months or 16 non-consecutive months",
+      "Time to permanent residency": "5 years",
       "Time to Citizenship / Pathway to Citizenship": "5 years - * National Law is currently under revision - the Government intends to change it to 10 years.",
-      "PROCESSING PERIOD FROM SUBMISSION": "3-4 months",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
+      "Estimated processing period from submission": "3-4 months",
+      "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "188",
       "Visa-free access to the Schengen area": "Yes",
       "Visa-free access to the United States": "No",
@@ -770,11 +770,11 @@ const ProgramComparisonTable = () => {
       "Additional Requirements": "Must maintain tax residency"
     },
     "Spain Citizenship by Descent": {
-      "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "N/A",
-      "TIME TO PERMANENT RESIDENCY": "N/A",
+      "Physical presence required to maintain status": "N/A",
+      "Time to permanent residency": "N/A",
       "Time to Citizenship / Pathway to Citizenship": "N/A",
-      "PROCESSING PERIOD FROM SUBMISSION": "N/A",
-      "VISIT THE COUNTRY FOR BIOMETRICS": "N/A",
+      "Estimated processing period from submission": "N/A",
+      "Visit the country for biometrics": "N/A",
       "Number of visa-free countries accessible": "N/A",
       "Visa-free access to the Schengen area": "N/A",
       "Visa-free access to the United States": "N/A",
@@ -815,11 +815,11 @@ const ProgramComparisonTable = () => {
     {
       name: "Overview",
       indicators: [
-        "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS",
-        "TIME TO PERMANENT RESIDENCY",
+        "Physical presence required to maintain status",
+        "Time to permanent residency",
         "Time to Citizenship / Pathway to Citizenship",
-        "PROCESSING PERIOD FROM SUBMISSION",
-        "VISIT THE COUNTRY FOR BIOMETRICS"
+        "Estimated processing period from submission",
+        "Visit the country for biometrics"
       ]
     },
     {
