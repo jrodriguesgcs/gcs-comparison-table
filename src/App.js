@@ -734,7 +734,7 @@ const ProgramComparisonTable = () => {
       "Physical presence required to maintain status": "For the period of validation of residency permit you are expected to stay 18 consecutive months or 16 non-consecutive months",
       "Time to permanent residency": "5 years",
       "Time to Citizenship / Pathway to Citizenship": "5 years - * National Law is currently under revision - the Government intends to change it to 10 years.",
-      "Estimated processing period from submission": "3-4 months",
+      "Estimated processing period from submission": "6-12 months",
       "Visit the country for biometrics": "Yes",
       "Number of visa-free countries accessible": "188",
       "Visa-free access to the Schengen area": "Yes",
