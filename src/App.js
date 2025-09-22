@@ -711,7 +711,7 @@ const ProgramComparisonTable = () => {
     "Portugal Golden Visa": {
       "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "7 days per year",
       "TIME TO PERMANENT RESIDENCY": "5 years",
-      "TIME TO CITIZENSHIP": "5 years",
+      "TIME TO CITIZENSHIP": "5 years - * National Law is currently under revision - the Government intends to change it to 10 years.",
       "PROCESSING PERIOD FROM SUBMISSION": "18-24 months",
       "MANDATORY VISIT TO THE COUNTRY": "Yes",
       "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
@@ -751,7 +751,7 @@ const ProgramComparisonTable = () => {
     "Portugal D7 Visa": {
       "PHYSICAL PRESENCE REQUIRED TO MAINTAIN STATUS": "183 days per year",
       "TIME TO PERMANENT RESIDENCY": "5 years",
-      "TIME TO CITIZENSHIP": "5 years",
+      "TIME TO CITIZENSHIP": "5 years - National Law is currently under revision - the Government intends to change it to 10 years.",
       "PROCESSING PERIOD FROM SUBMISSION": "3-4 months",
       "MANDATORY VISIT TO THE COUNTRY": "Yes",
       "VISIT THE COUNTRY FOR BIOMETRICS": "Yes",
